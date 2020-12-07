@@ -2,19 +2,26 @@
 
 ## Build Setup
 
+### Development
+
 ```bash
-# install dependencies
-$ yarn install
-
-# serve with hot reload at localhost:3000
-$ yarn dev
-
-# build for production and launch server
-$ yarn build
-$ yarn start
-
-# generate static project
-$ yarn generate
+# serve with hot reloading at localhost:3000
+$ npm run dev # yarn dev
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+Go to [http://localhost:3000](http://localhost:3000)
+
+### Production
+
+```bash
+# build for production and launch the server
+$ npm run build # yarn build
+$ npm start # yarn start
+```
+
+### Generate
+
+```bash
+# generate a static project
+$ npm run generate # yarn generate
+```
