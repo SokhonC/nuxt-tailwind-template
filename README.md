@@ -1,4 +1,4 @@
-# nuxt-with-tail-wind-css
+# Nuxt-Tailwind
 
 ## Build Setup
 
