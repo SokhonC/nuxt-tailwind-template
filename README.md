@@ -1,6 +1,19 @@
 # Nuxt-Tailwind
+## Why this?
+- Struggling with setting Vuetify or Tailwind with Nuxt
+- Vuetify is suck ><
+```bash
+npm install @nuxtjs/tailwindcss # yarn add @nuxtjs/tailwindcss IS NOT WORIKING 
+``` 
 
 ## Build Setup
+
+### Set up
+
+```bash
+#install node package module 
+$ npm install # yarn install 
+```
 
 ### Development
 
