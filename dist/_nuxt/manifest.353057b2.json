@@ -1,0 +1,10 @@
+{
+  "name": "nuxt-with-tail-wind-css",
+  "short_name": "nuxt-with-tail-wind-css",
+  "description": "## Why this? - Struggling with setting Vuetify or Tailwind with Nuxt - Vuetify is suck >< ```bash # Just in case if this is not working npm install @nuxtjs/tailwindcss # yarn add @nuxtjs/tailwindcss ```",
+  "icons": [],
+  "start_url": "/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "lang": "en"
+}
